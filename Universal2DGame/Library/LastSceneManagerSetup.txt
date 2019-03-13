@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/GAME_SCENES/Platformer.unity
+  isLoaded: 1
+  isActive: 1
