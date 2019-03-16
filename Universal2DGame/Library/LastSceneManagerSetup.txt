@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/GAME_SCENES/Platformer.unity
+- path: Assets/GAME_SCENES/Shmup.unity
   isLoaded: 1
   isActive: 1
